@@ -1,6 +1,3 @@
-# BIS Standards Recommendation Engine
-
-AI-powered RAG system that recommends Bureau of Indian Standards (BIS) IS standards from product descriptions. Built for the BIS × SS Hackathon 2026.
 
 
 **Models**:
