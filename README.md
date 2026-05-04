@@ -1,4 +1,4 @@
-
+**End-to-End BIS standards pipeline using Qwen3-VL with multilingual retrieval and generation for accurate, context-aware recommendations.**
 
 **Models**:
 - `Qwen3-VL-4B-Instruct-FP8` — visual extraction + LLM reranking (via vLLM)
